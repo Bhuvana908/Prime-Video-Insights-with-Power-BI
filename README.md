@@ -28,6 +28,8 @@ The dashboard highlights:
 ## 📂 Project Files
 
 * `PrimeVideo Analysis.pbix` → Power BI dashboard file
+
+
   Note: GitHub cannot preview .pbix files. Please download the file and open it in Power BI Desktop.
 * `PrimeVideoTitles.zip` → Contains the Excel dataset used for this project
 * `PrimeVideo Insights.png` → Snapshot of the dashboard
