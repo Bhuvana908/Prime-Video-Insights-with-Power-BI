@@ -42,7 +42,7 @@ The dashboard highlights:
 
 ## 📸 Dashboard Preview
 
-![Prime Video Dashboard](./PrimeVideo Insights.png)
+![Prime Video Dashboard](./PrimeVideo-Insights.png)
 
 ## 🔑 Learnings & Takeaways
 
