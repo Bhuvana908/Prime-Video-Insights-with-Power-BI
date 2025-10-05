@@ -29,7 +29,7 @@ The dashboard highlights:
 
 * `PrimeVideo Analysis.pbix` → Power BI dashboard file
 * `PrimeVideoTitles.zip` → Contains the Excel dataset used for this project
-* PrimeVideo Insights.png → Snapshot of the dashboard
+* `PrimeVideo Insights.png` → Snapshot of the dashboard
 * `README.md` → Project documentation
 
 ## 🚀 How to Use
