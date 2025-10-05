@@ -55,7 +55,7 @@ The dashboard highlights:
 
 If you’d like to connect or collaborate:
 
-* **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/bhuvana-reddy-907a68339)
+* **LinkedIn**: [LinkedIn Profile](http://linkedin.com/in/bhuvana-reddy-907a68339)
 * **GitHub**: [GitHub Profile](https://github.com/Bhuvana908)
 
 ---
